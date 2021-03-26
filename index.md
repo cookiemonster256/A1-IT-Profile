@@ -4,10 +4,14 @@ layout: default
 # About Me
 
 Name: Nicholas (Niki) Holik 
+
 Student Number: S3906554 
+
 Student Email: s3906554@student.rmit.edu.au
+
 Background Information: Hello :), my name is Niki. I was born and raised in Australia although both my parents were raised in Serbia. I speak primarily english and some serbian. I graduated from St Albans Secondary College in 2020. Most of my free time is spent either playing games with my friends or working part-time. I also enjoy spending time with my Dog, Tesla, a full breed German Shepard.
 
+![Me](https://user-images.githubusercontent.com/80808423/112676220-45bde200-8ebc-11eb-8d6b-2ce818b5412e.jpg)
 
 # Interest in IT
 My interest in IT initially started at around Grade 6 through games, even though I played for a while prior to this, it was when my interest in computers and different types of technology sparked. This interest was introduced through my brother who also played games at the time. My IT knowledge is fairly bare in general with knowing all of the basics and some knowledge in IT through high school electives. 
