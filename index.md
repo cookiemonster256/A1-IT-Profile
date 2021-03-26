@@ -1,5 +1,5 @@
 ---
-layout: cayman
+layout: default
 ---
 <body>
 # About Me
