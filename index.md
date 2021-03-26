@@ -3,13 +3,13 @@ layout: default
 ---
 # About Me
 
-Name: Nicholas (Niki) Holik 
+**Name:** Nicholas (Niki) Holik 
 
-Student Number: S3906554 
+**Student Number:** S3906554 
 
-Student Email: s3906554@student.rmit.edu.au
+**Student Email:** s3906554@student.rmit.edu.au
 
-Background Information: Hello :), my name is Niki. I was born and raised in Australia although both my parents were raised in Serbia. I speak primarily english and some serbian. I graduated from St Albans Secondary College in 2020. Most of my free time is spent either playing games with my friends or working part-time. I also enjoy spending time with my Dog, Tesla, a full breed German Shepard.
+**Background Information:** Hello :), my name is Niki. I was born and raised in Australia although both my parents were raised in Serbia. I speak primarily english and some serbian. I graduated from St Albans Secondary College in 2020. Most of my free time is spent either playing games with my friends or working part-time. I also enjoy spending time with my Dog, Tesla, a full breed German Shepard.
 
 ![Me](https://user-images.githubusercontent.com/80808423/112676220-45bde200-8ebc-11eb-8d6b-2ce818b5412e.jpg)
 
@@ -38,14 +38,15 @@ The reading I achieved from www.16personalities.com/ was ENTP- T (Debater).
 
 http://www.educationplanner.org/ indicates that I'm an auditory/tactile learner. 
 
-On the big five personality test on https://openpsychometrics.org/tests/IPIP-BFFM/  my score is as followed;
+On the big five personality test my score is as followed;
+**Site**:https://openpsychometrics.org/tests/IPIP-BFFM/
 ![big five](https://user-images.githubusercontent.com/80808423/112680706-d3500080-8ec1-11eb-905b-85fb7b5cdaa2.jpg)
 
 These results don't mean all that much to me as i already know that this was around the result i was going to achieve so it doesn't come as a surprise to me, these results may influence my behaviour in a team as i am more likely to be a facilitator to the team and ensure that we are all participating in group discussion as well as everyone providing ideas. I should also take this into account when forming a team to ensure not everyone is extroverted and have the same personality type as me since it may cause conflict within our group.
 
 # Project Idea
 
-**Fire Brigade Robots (F.B.R)
+**Fire Brigade Robots (F.B.R)**
  
 Fire brigade robots would be a fire extinguishing force primarily composed of robots, they would use innovative technology to extinguish a variety of fires, small to large in a swift manner, in which no one would come to harm. The robots would come in varying sizes, from light work to heavy duty depending on the severity of the fire. 
 
