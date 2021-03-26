@@ -2,7 +2,7 @@
 layout: slate
 ---
 <body>
-# About Me
+# Header 1
 <p>Name: Nicholas (Niki) Holik <br>
 Student Number: S3906554 <br>
 Student Email: s3906554@student.rmit.edu.au <br>
