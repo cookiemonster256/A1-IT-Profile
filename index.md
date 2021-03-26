@@ -23,6 +23,8 @@ From my studies at RMIT I hope to benefit in many fields regarding technology, p
 
 # Ideal Job
 https://www.seek.com.au/job/51718668?type=promoted#searchRequestToken=27ec2b67-5184-4c48-bdf7-a8d35708bf2a 
+![ideal job](https://user-images.githubusercontent.com/80808423/112680584-aac80680-8ec1-11eb-9506-67826d63462c.jpg)
+
 This position is appealing as it makes use of various systems which I am familiar with alongside the fact software development intrigues me. This position would utilise Java, C# and SQL, to demonstrate knowledge on software development in order to create education applications for a variety of audiences. 
  
 The skills and qualifications required to utilise this position would be advanced knowledge and adept application of Java, C# and SQL, while also being creative and able to adapt to new ideas which will allow you to create the optimal education app. While you must also strive to seek solutions for all problems you encounter, while also being able to work efficiently in groups. 
@@ -37,10 +39,12 @@ The reading I achieved from www.16personalities.com/ was ENTP- T (Debater).
 http://www.educationplanner.org/ indicates that I'm an auditory/tactile learner. 
 
 On the big five personality test on https://openpsychometrics.org/tests/IPIP-BFFM/  my score is as followed;
-
+![big five](https://user-images.githubusercontent.com/80808423/112680706-d3500080-8ec1-11eb-905b-85fb7b5cdaa2.jpg)
 
 These results don't mean all that much to me as i already know that this was around the result i was going to achieve so it doesn't come as a surprise to me, these results may influence my behaviour in a team as i am more likely to be a facilitator to the team and ensure that we are all participating in group discussion as well as everyone providing ideas. I should also take this into account when forming a team to ensure not everyone is extroverted and have the same personality type as me since it may cause conflict within our group.
+
 # Project Idea
+
 **Fire Brigade Robots (F.B.R)
  
 Fire brigade robots would be a fire extinguishing force primarily composed of robots, they would use innovative technology to extinguish a variety of fires, small to large in a swift manner, in which no one would come to harm. The robots would come in varying sizes, from light work to heavy duty depending on the severity of the fire. 
@@ -54,7 +58,7 @@ The skills required to operate the F.B.R will be a license to operate through re
 If this project is successful, there may be hundreds upon thousands of lives saved, home alone fires are the biggest killers among household fires, with the commercial F.B.R, it will change the outcome drastically. Saving lives and possessions. Furthermore, it will not require the fire force to explore unfamiliar buildings in dangerous situations. This development will drastically change the approach there is to all types of fires. 
 
 Example of a low tech F.B.R:
-
+![fbr](https://user-images.githubusercontent.com/80808423/112680772-e2cf4980-8ec1-11eb-9041-57d8f54ff7df.jpg)
 
 
 
