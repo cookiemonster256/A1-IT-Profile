@@ -23,6 +23,7 @@ From my studies at RMIT I hope to benefit in many fields regarding technology, p
 
 # Ideal Job
 https://bit.ly/2Pvlb0v
+
 ![ideal job](https://user-images.githubusercontent.com/80808423/112680584-aac80680-8ec1-11eb-9506-67826d63462c.jpg)
 
 This position is appealing as it makes use of various systems which I am familiar with alongside the fact software development intrigues me. This position would utilise Java, C# and SQL, to demonstrate knowledge on software development in order to create education applications for a variety of audiences. 
