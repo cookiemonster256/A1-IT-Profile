@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Assignment 1</title>
-</head>
+---
+layout: default
+---
 <body>
 <h1>About Me<h1>
 <p>Name: Nicholas (Niki) Holik <br>
@@ -53,4 +51,4 @@ If this project is successful, there may be hundreds upon thousands of lives sav
 <h1>Example of a low tech F.B.R<h1>
 <img scr="fbr.jpg" width="565" height="320">
 </body>
-</html>
+
