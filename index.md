@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: dinky
 ---
 <body>
 <h1>About Me<h1>
