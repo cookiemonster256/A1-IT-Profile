@@ -39,8 +39,8 @@ The reading I achieved from www.16personalities.com/ was ENTP- T (Debater).
 http://www.educationplanner.org/ indicates that I'm an auditory/tactile learner. 
 
 On the big five personality test my score is as followed;
-**Site**:https://openpsychometrics.org/tests/IPIP-BFFM/
 ![big five](https://user-images.githubusercontent.com/80808423/112680706-d3500080-8ec1-11eb-905b-85fb7b5cdaa2.jpg)
+**Site**:https://openpsychometrics.org/tests/IPIP-BFFM/
 
 These results don't mean all that much to me as i already know that this was around the result i was going to achieve so it doesn't come as a surprise to me, these results may influence my behaviour in a team as i am more likely to be a facilitator to the team and ensure that we are all participating in group discussion as well as everyone providing ideas. I should also take this into account when forming a team to ensure not everyone is extroverted and have the same personality type as me since it may cause conflict within our group.
 
