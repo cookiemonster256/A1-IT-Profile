@@ -58,6 +58,7 @@ The skills required to operate the F.B.R will be a license to operate through re
 If this project is successful, there may be hundreds upon thousands of lives saved, home alone fires are the biggest killers among household fires, with the commercial F.B.R, it will change the outcome drastically. Saving lives and possessions. Furthermore, it will not require the fire force to explore unfamiliar buildings in dangerous situations. This development will drastically change the approach there is to all types of fires. 
 
 Example of a low tech F.B.R:
+
 ![fbr](https://user-images.githubusercontent.com/80808423/112680772-e2cf4980-8ec1-11eb-9041-57d8f54ff7df.jpg)
 
 
